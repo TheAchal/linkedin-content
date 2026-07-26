@@ -4,6 +4,14 @@ Research and drafting workspace for Achal Tiwari's LinkedIn posts. Four
 scheduled cloud routines write here; nothing is published automatically. The
 finished post is copied into LinkedIn by hand.
 
+## This repo is public
+
+It is public because the scheduled cloud routines can only clone public
+repositories. Everything committed here is readable by anyone: draft posts,
+the angles that were rejected, and the research trail. Do not put anything
+confidential in it. No unannounced product names, no launch dates, no pricing,
+no internal metrics that are not already public.
+
 ## Pipeline
 
 | Routine | Cadence (UTC) | Writes |
